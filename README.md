@@ -1,16 +1,29 @@
-### Hi there 👋
+###  Hi, I'm Shalim Ahmed 👋
+#### Full Stack .NET Expert
+![Full Stack .NET Expert](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**shalim008/shalim008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In my current Professional Microsoft ASP.NET Full Stack role, I have extensive experience with ASP.NET MVC, .NET Core, WEB API, SQL, and Angular.
+I perform the following Development duties on a daily basis in an Enterprise-level WEB Application environment.
 
-Here are some ideas to get you started:
+- Software Architecture Design and Development.
+- Support existing Enterprise Level WEB Application.
+- Database Designing, Mirroring, Replication, Point in Time Recovery Plan, and Complex PL SQL writing.
+- Project planning, Requirement Specifications  and Technical Team Lead .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills:
+Programming Language: ASP.NET C#, PHP.
+Framework: Asp.net MVC, .NET Core, Asp.net C# Web From
+Database: MS SQL Server, MySQL.
+Web Tools and Technologies: AWS, Web API, Windows Services, Telerik Rad Controller, Kendo UI, JqueryUI, EF, Crystal Reporting, SSRS etc.
+Scripting Language: JavaScript, jQuery, Angular JS, Knockout JS, Bootstrap CSS, Html-5.
+Software Designing Tool: Visual Paradigm, Microsoft Visio.
+Project Management Tools and Version Control: Jira, SVN, Team Foundation Server (TFS), Git.
+
+
+Skills: ASP.NET MVC / .NET Core / Asp.net C# Web From / SQL / ANGULAR / JQUERY
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
