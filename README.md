@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **roudro2010@gmail.com**
 
-- ⚡ Fun fact **I am lazy and tamil movie lover **
+- ⚡ Fun fact **I am lazy **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
