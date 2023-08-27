@@ -15,7 +15,7 @@ He participated in different training events: (i) on ‘’Microservices Archite
 He participated in international events on Microsoft Azure Virtual Training Day: Fundamentals organized by Microsoft, technical /financial support provided by Microsoft, September 2022 held in Singapore (remote). Furthermore, attended various national and international events like BASIS Soft Expo 2019 held in Bangladesh.
 
 Professional link: https://www.linkedin.com/in/shalim-ahmed-5107693b/ 
-Email: roudro2010@gmail.com
+Email: amishalim@hotmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalim008&show_icons=true&locale=en&layout=compact" alt="shalim008" /></p>
 
